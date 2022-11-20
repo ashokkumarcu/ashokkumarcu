@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashokkumarcu
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning linear regression
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🌱 I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ...
 
 <!---
